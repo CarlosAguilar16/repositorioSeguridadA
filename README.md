@@ -1,0 +1,2 @@
+# repositorioSeguridadA
+Para pruebas SONARQ
